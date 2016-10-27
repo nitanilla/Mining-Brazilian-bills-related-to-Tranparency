@@ -1,4 +1,4 @@
-###Mining Brazilian Bills related to Tranparency
+#Mining Brazilian Bills related to Tranparency
 Here we disclose the [files and process] (https://github.com/nitanilla/Mining-Brazilian-bills-related-to-Tranparency/issues) used to mine bills from votanaweb.com
 
 ## Bugs and Issues
