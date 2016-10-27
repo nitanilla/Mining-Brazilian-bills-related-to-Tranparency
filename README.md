@@ -1,5 +1,5 @@
 ###Mining Brazilian Bills related to Tranparency
-Here we disclose the [files and process] (https://github.com/nitanilla/corpus-retrieval/issues) used to mine bills from votanaweb.com
+Here we disclose the [files and process] (https://github.com/nitanilla/Mining-Brazilian-bills-related-to-Tranparency/issues) used to mine bills from votanaweb.com
 
 ## Bugs and Issues
 Have a bug or an issue with this? [Open a new issue](https://github.com/nitanilla/corpus-retrieval/issues) here on GitHub 
